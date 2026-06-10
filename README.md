@@ -13,5 +13,6 @@ Here I share technical write-ups, lab notes, certification insights, and practic
 [CVE-2026-48774 - 7.5/10](https://github.com/sysown/proxysql/security/advisories/GHSA-7wh6-2vcc-gcm4)
 
 [CVE-2026-48491 - 7.8/10](https://github.com/traefik/traefik/security/advisories/GHSA-5r4w-85f3-pw66) | 
-[CVE-2026-49980 - 9,8/10](https://github.com/rclone/rclone/security/advisories/GHSA-qw24-gh76-8rvv)
+[CVE-2026-49980 - 9.8/10](https://github.com/rclone/rclone/security/advisories/GHSA-qw24-gh76-8rvv) |
+[CVE-2026-53622 - 7.8/10](https://github.com/traefik/traefik/security/advisories/GHSA-9cr8-q42q-g8m7)
 
