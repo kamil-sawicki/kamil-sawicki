@@ -16,6 +16,7 @@ Here I share technical write-ups, lab notes, certification insights, and practic
 [CVE-2026-49980 - 9.8/10](https://github.com/rclone/rclone/security/advisories/GHSA-qw24-gh76-8rvv) |
 [CVE-2026-53622 - 7.8/10](https://github.com/traefik/traefik/security/advisories/GHSA-9cr8-q42q-g8m7)
 
-[CVE-2026-24791 - 8.1/10](https://github.com/go-gitea/gitea/security/advisories/GHSA-wrr5-99h5-gq57)
+[CVE-2026-24791 - 8.1/10](https://github.com/go-gitea/gitea/security/advisories/GHSA-wrr5-99h5-gq57) |
+[GHSA-r553-q33m-v7pf - 7.1/10](https://github.com/appsmithorg/appsmith/security/advisories/GHSA-r553-q33m-v7pf)
 
 
