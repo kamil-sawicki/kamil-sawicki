@@ -22,7 +22,8 @@ Here I share technical write-ups, lab notes, certification insights, and practic
 [CVE-2026-69384 - 7.1/10](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69384)
 
 [GHSA-r553-q33m-v7pf - 7.1/10](https://github.com/appsmithorg/appsmith/security/advisories/GHSA-r553-q33m-v7pf) |
-[GHSA-hmrg-vpp4-gj88 - 5.4/10](https://github.com/goauthentik/authentik/security/advisories/GHSA-hmrg-vpp4-gj88)
+[GHSA-hmrg-vpp4-gj88 - 5.4/10](https://github.com/goauthentik/authentik/security/advisories/GHSA-hmrg-vpp4-gj88) |
+[GHSA-r9xq-xp38-j4j3 - 6.5/10](https://github.com/directus/directus/security/advisories/GHSA-r9xq-xp38-j4j3)
 
 
 
