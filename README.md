@@ -1,6 +1,6 @@
 ## ## Hi there 👋
 
-I'm an OSCE³-certified cybersecurity practitioner focused on offensive security, web security, vulnerability research, and exploit development.
+I'm an [OSCE³](https://credentials.offsec.com/fe5b80ba-8898-44d1-9b17-be5d45c8a092#acc.ubPXsNyR)-certified cybersecurity practitioner focused on offensive security, web security, vulnerability research, and exploit development.
 
 Here I share technical write-ups, lab notes, certification insights, and practical lessons from the field.
 
