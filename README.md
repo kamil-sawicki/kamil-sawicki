@@ -4,6 +4,8 @@ I'm an [OSCE³](https://credentials.offsec.com/fe5b80ba-8898-44d1-9b17-be5d45c8a
 
 Here I share technical write-ups, lab notes, certification insights, and practical lessons from the field.
 
+kamil.sawicki@tutamail.com
+
 [kamil-sawicki.github.io](https://kamil-sawicki.github.io)
 
 [CVE-2026-46491 - 8.6/10](https://github.com/simplesamlphp/simplesamlphp-module-casserver/security/advisories/GHSA-jrrg-99xh-5j2q) | 
