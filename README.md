@@ -33,3 +33,4 @@ Reported vulnerabilities, with severity scores and links to my write-ups:
 | Argo CD | Command injection through SSH repository proxy URLs | 8.8/10 | [CVE-2026-55797](https://kamil-sawicki.github.io/posts/cve-2026-55797/) |
 | cert-manager | ACME Challenge solver policy bypass and DNS credential misuse | 7.3/10 | [CVE-2026-62290](https://kamil-sawicki.github.io/posts/cve-2026-62290/) |
 | authentik | Missing authorization checks in Shared Signals Framework | 5.4/10 | [GHSA-hmrg-vpp4-gj88](https://kamil-sawicki.github.io/posts/ghsa-hmrg-vpp4-gj88/) |
+| nanomq | Heap Underflow in basic_authorize via Short Base64 Token |  7.5/10 | [GHSA-cgxg-fqq7-hqf9](https://github.com/nanomq/nanomq/security/advisories/GHSA-cgxg-fqq7-hqf9#event-1413812) |
