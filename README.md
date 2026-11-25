@@ -14,7 +14,8 @@ Reported vulnerabilities, with severity scores and links to my write-ups:
 
 | Project | Finding | Score | Read more |
 | --- | --- | ---: | --- |
-| Microsoft Windows | Denial of service in the VHD Miniport Driver | 7.1/10 | [CVE-2026-69384](https://kamil-sawicki.github.io/posts/cve-2026-69384/) |
+| Linux KVM | Priority VLAN nesting causing 16-bit skb header offset wrap and out-of-bounds access |  | [CVE-2026-99805](https://lore.kernel.org/linux-cve-announce/2026112537-CVE-2026-99805-0d31@gregkh/) · [upstream fix](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=d3ff07f5acc573e5f72bf1c581bae5d05191ba61) |
+| Microsoft Hyper-V | Denial of service in the VHD Miniport Driver | 7.1/10 | [CVE-2026-69384](https://kamil-sawicki.github.io/posts/cve-2026-69384/) |
 | ProxySQL | Heap buffer overflow reachable before authentication | 9.8/10 | [CVE-2026-48773](https://kamil-sawicki.github.io/posts/cve-2026-48773/) |
 | rclone | Missing authentication in remote control file serving | 9.8/10 | [CVE-2026-49980](https://kamil-sawicki.github.io/posts/cve-2026-49980/) |
 | Gitea | Authorization bypass allowing access to Actions artifacts across repositories | 9.6/10 | [CVE-2026-58426](https://kamil-sawicki.github.io/posts/cve-2026-58426/) |
